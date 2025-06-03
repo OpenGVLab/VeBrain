@@ -1,6 +1,6 @@
 # Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces
 
- [[📜 Paper]](https://internvl.github.io/blog/2025-05-26-VeBrain/) [[⭐️Project Page]](https://internvl.github.io/blog/2025-05-26-VeBrain/) [[🤗 Model]](https://huggingface.co/OpenGVLab/VeBrain) 
+ [[📜 Paper]](https://arxiv.org/abs/2506.00123) [[⭐️Project Page]](https://internvl.github.io/blog/2025-05-26-VeBrain/) [[🤗 Model]](https://huggingface.co/OpenGVLab/VeBrain) 
  <!-- [[📝 Chinese Post]](https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg) -->
 
 
