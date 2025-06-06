@@ -18,3 +18,16 @@ The remarkable progress of Multimodal Large Language Models (MLLMs) has attracte
 ## 🎫 License
 
 This project is released under the [MIT License](LICENSE).
+
+## 🖊️ Citation
+
+If you find this work helpful in your research, please consider giving this repo a star ⭐ and citing our paper:
+
+```bibtex
+@article{luo2025visual,
+  title={Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces},
+  author={Luo, Gen and Yang, Ganlin and Gong, Ziyang and Chen, Guanzhou and Duan, Haonan and Cui, Erfei and Tong, Ronglei and Hou, Zhi and Zhang, Tianyi and Chen, Zhe and others},
+  journal={arXiv preprint arXiv:2506.00123},
+  year={2025}
+}
+```
